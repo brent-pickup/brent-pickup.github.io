@@ -1,2 +1,2 @@
 # brent-pickup.github.io
-A Pickup demo site
+A FanPower demo site
